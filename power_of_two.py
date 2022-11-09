@@ -2,7 +2,7 @@
 
 # Made by Jaydin Madore
 # Made on 2022-11-09
-# This program tells the user the squared of the positive integer number they 
+# This program tells the user the squared of the positive integer number they
 # inputted and all the number the positive integer that come before it.
 
 
